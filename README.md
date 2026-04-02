@@ -240,7 +240,7 @@ ORDER BY Total_Revenue_EUR DESC;
 > 🌍 **Interactive animated choropleth map** — shows BMW revenue by country across 2020–2024.
 > **Upload `05_world_map_animated.html` to GitHub** and link it below:
 
-**➡️ [Click here to open the Interactive World Map](05_world_map_animated.html)**
+**➡️ [🌍 Click to Open Interactive World Map](https://DeveshShukla23.github.io/BMW-Global-Sales-Analysis/BMW_Visuals/05_world_map_animated.html)**
 
 **What the map reveals:**
 - **USA = consistently the brightest country** — dominant revenue market across all 5 years
